@@ -1,0 +1,18 @@
+{
+  "input": {
+    "l": null
+  },
+  "output": {
+    "x": {
+      "message": "",
+      "call": "NULL",
+      "type": [
+        "shiny.silent.error",
+        "validation"
+      ]
+    }
+  },
+  "export": {
+
+  }
+}
